@@ -1,4 +1,29 @@
-# Equalizer Presets
+# Generic presets
+
+This page contains the generic reference presets for EQLibre. They are not tied to a specific device and can be used as a reusable baseline for headphones, speakers, or other audio outputs.
+
+These profiles are designed to provide a clean starting point for tuning with Easy Effects. You can use them directly or adjust them according to your equipment, room, and personal listening preferences.
+
+> Disclaimer: These presets are reference values for experimentation and personal listening. Results may vary by hardware, source signal, and environment.
+
+## Download profiles
+
+### Input / noise reduction
+- [EQLibre - Noise Reduction](easy-effects/input/EQLibre%20-%20Noise%20Reduction.json)
+
+### Output profiles
+- [EQLibre - Blues](easy-effects/output/EQLibre%20-%20Blues.json)
+- [EQLibre - Classic](easy-effects/output/EQLibre%20-%20Classic.json)
+- [EQLibre - Country](easy-effects/output/EQLibre%20-%20Country.json)
+- [EQLibre - Dance](easy-effects/output/EQLibre%20-%20Dance.json)
+- [EQLibre - Electronic](easy-effects/output/EQLibre%20-%20Electronic.json)
+- [EQLibre - Hip Hop](easy-effects/output/EQLibre%20-%20Hip%20Hop.json)
+- [EQLibre - Jazz](easy-effects/output/EQLibre%20-%20Jazz.json)
+- [EQLibre - Metal](easy-effects/output/EQLibre%20-%20Metal.json)
+- [EQLibre - Pop](easy-effects/output/EQLibre%20-%20Pop.json)
+- [EQLibre - Rock](easy-effects/output/EQLibre%20-%20Rock.json)
+
+## Reference values
 
 All values are gain adjustments in decibels (dB).
 
